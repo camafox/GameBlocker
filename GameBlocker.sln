@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameBlocker", "GameBlocker.csproj", "{5F9E8D22-4573-439E-8409-AF58D5C28ABF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "GameBlockSetup", "..\GameBlockSetup\GameBlockSetup.vdproj", "{1605935F-FC27-4E08-A98C-3C9CEFDF93C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F9E8D22-4573-439E-8409-AF58D5C28ABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F9E8D22-4573-439E-8409-AF58D5C28ABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F9E8D22-4573-439E-8409-AF58D5C28ABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F9E8D22-4573-439E-8409-AF58D5C28ABF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1605935F-FC27-4E08-A98C-3C9CEFDF93C0}.Debug|Any CPU.ActiveCfg = Debug
+		{1605935F-FC27-4E08-A98C-3C9CEFDF93C0}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88C01E54-0DE4-4AE4-A52E-65437E28EA1A}
+	EndGlobalSection
+EndGlobal

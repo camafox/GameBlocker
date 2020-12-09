@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="GameBlocker.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="KeyGesture" Type="System.String" Scope="User">
+      <Value Profile="(Default)">[118,116,3]</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
